@@ -26,7 +26,7 @@ Bitte gerne um weitere Events erweitern!
 | ROMHACK                      | Rom               | 23.-25.09. | Red Team             | https://romhack.camp/                                  | 90                            |
 | Hack in Paris                | Paris             | 25.-29.09. | Red Team             | https://hackinparis.com/                               | 540                           |
 | Internet Security Days       | Brühl             | 29.-30.09. | Misc                 | https://www.eco.de/events/internet-security-days-2022/ | 699                           |
-| it-sa                        | Nürnberg          | 10.-12.10. | Misc                 | https://www.itsa365.de                                 | 0-85                          |
+| it-sa                        | Nürnberg          | 10.-12.10. | Sales                 | https://www.itsa365.de                                 | 0-85                          |
 | BSides Munich                | München           | 14.-15.10. | Red Team             | https://www.bsidesmunich.org/                          | ?                           | 
 | Black Hat Europe             | London / virtuell | ??.12.     | Red Team             | https://www.blackhat.com/upcoming.html#europe          | 399-1299 Pfund                |
 | Chaos Computer Club Congress | ?                 | 27.-30.12  | Misc                 | https://events.ccc.de/                                 | ?                              |
