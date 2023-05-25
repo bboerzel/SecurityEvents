@@ -36,4 +36,4 @@ Bitte gerne um weitere Events erweitern!
 
 
 
-* Datum des leztes Events / Typisch um diesen Zeitraum. Aktuelle Infos auf der jeweiligen Homepage.
+* Datum des lezten Events / Typisch um diesen Zeitraum. Aktuelle Infos auf der jeweiligen Homepage.
