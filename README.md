@@ -1,5 +1,9 @@
 # SecurityEvents
 
+Hier eine Sammlung / Übersicht IT-Security Events mit Fokus auf DE/EU.
+Bitte gerne um weitere Events erweitern! 
+
+
 | Name                         | Ort               | Datum *     | Fokus             | Link                                                   | Kosten Konferenz / Training € |
 | ---------------------------- | ----------------- | ---------- | --------------- | ------------------------------------------------------ | ----------------------------- |
 | OffensiveCon                 | Berlin            | 19.-20.05. | Red Team             | https://www.offensivecon.org/                          | 1250                          |
