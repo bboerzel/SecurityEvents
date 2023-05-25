@@ -16,6 +16,7 @@ Bitte gerne um weitere Events erweitern!
 | RUHRSEC                      | Bochum            | 11.-12.05. | Misc                 | https://www.ruhrsec.de/                                | ?                           | 
 | OffensiveCon                 | Berlin            | 19.-20.05. | Red Team             | https://www.offensivecon.org/                          | 1250                          |
 | Gulasch Programmier Nacht    | Karlsruhe         | 08.-11.06. | Misc                 | https://entropia.de/GPN                                | 0                           |
+| GLOBAL SECURITY AND COMPLIANCE CONFERENCE    | Köln         | 13.-14.06. | Compliance                 | http://complianceinsider.de/                                | 0?                           |
 | infosecurity europe          | London            | 20.-22.06. | Misc                 | https://www.infosecurityeurope.com/en-gb.html          | ?                             |
 | DSLAM, Digital Security Slam | Leipzig           | 22.06.     | Misc                 | https://dslam.info                                     | 236,81                           | 
 | Troopers                     | Heidelberg        | 26.-30.06. | Red Team             | https://troopers.de/                                   | 2190                          |
