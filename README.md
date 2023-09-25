@@ -46,6 +46,9 @@ Bitte gerne um weitere Events erweitern!
 * Datum des lezten Events / Typisch um diesen Zeitraum. Aktuelle Infos auf der jeweiligen Homepage.
 
 # Weitere Sammlungen / Listen / Übersichten:
+
 https://infosec-conferences.com/country/germany/
+
 https://martin.leyrer.priv.at/static/events2023.html
+
 https://www.nmessen.com/sicherheit/deutschland/
