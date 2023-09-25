@@ -23,18 +23,29 @@ Bitte gerne um weitere Events erweitern!
 | infosecurity europe          | UK London            | 20.-22.06. | Misc                 | https://www.infosecurityeurope.com/en-gb.html          | ?                        |
 | DSLAM, Digital Security Slam | Leipzig           | 22.06.     | Misc                 | https://dslam.info                                     | 236,81                   | 
 | Troopers                     | Heidelberg        | 26.-30.06. | Red Team             | https://troopers.de/                                   | 2190                     |
+| GPN- Gulaschprogrammiernacht | Karlsruhe / online |08.-11.07.  | Chaos / Misc                 | https://entropia.de/GPN                                | 0 / Freiwillige Spende
 | Tag der IT-Sicherheit        | Karlsruhe         | 14.07.     | Misc                 | https://www.tag-der-it-sicherheit.de/                  | 90                       |
 | Black Hat USA                | USA LV            | 05.-10.08. | Red Team             | https://www.blackhat.com                               | USD                      |
-| Chaos Computer Club Camp     | Mildenberg        | 15.-19.08. | Misc                 | https://events.ccc.de/                                 | ?                        |
-| ROMHACK                      | IT Rom               | 23.-25.09. | Red Team             | https://romhack.camp/                                  | 90                       |
-| Hack in Paris                | FR Paris             | 25.-29.09. | Red Team             | https://hackinparis.com/                               | 540                      |
+| Chaos Computer Club Camp     | Mildenberg        | 15.-19.08. | Chaos / Misc                 | https://events.ccc.de/                                 | ?                        |
+| MRMCD - MetaRheinMainChaosDays | Darmstadt       | 01.-03.09. | Chaos / Misc        | https://mrmcd.net                                       | 23 - 423 |
+| ROMHACK                      | IT Rom            | 23.-25.09. | Red Team             | https://romhack.camp/                                  | 90                       |
+| Hack in Paris                | FR Paris          | 25.-29.09. | Red Team             | https://hackinparis.com/                               | 540                      |
+| Gartner Security & Risk Management Summit | UK London | 26.-28.9. |  GRC             | https://www.gartner.com/en/conferences/emea/security-risk-management-uk | 3850    |
 | Deutscher IT-Security Kongress| Osnabrück        | 28.09.     | Misc                 | https://www.pco-online.de/kongress2023                 | 0                        |
 | Internet Security Days       | Brühl             | 29.-30.09. | Misc                 | https://www.eco.de/events/internet-security-days-2022/ | 699                      |
+| Berliner Cyberversicherungstag |  Berlin         | 12.10.     | Misc                 | https://www.dvfvw.de/verantstaltungen/                 | ?                        |
+| IT Security Camp             | München / online  | 09.-11.10. | Blue / Red Team      | https://it-security-camp.de/                           | 1325 - 2399 |
 | it-sa                        | Nürnberg          | 10.-12.10. | Sales                 | https://www.itsa365.de                                 | 0-85                    |
 | BSides Munich                | München           | 14.-15.10. | Red Team             | https://www.bsidesmunich.org/                          | ?                        | 
+| GOSINTcon                    | Frankfurt         | 20.11.     | OSINT                 | https://gosintcon.de/                                  | 299                      |
 | Black Hat Europe             | UK London / online | ??.12.     | Red Team             | https://www.blackhat.com/upcoming.html#europe          | 399-1299 Pfund           |
-| Chaos Computer Club Congress | ?                 | 27.-30.12  | Misc                 | https://events.ccc.de/                                 | ?                        |
+| Chaos Computer Club Congress | ?                 | 27.-30.12  | Chaos / Misc                 | https://events.ccc.de/                                 | ?                        |
 
 
 
 * Datum des lezten Events / Typisch um diesen Zeitraum. Aktuelle Infos auf der jeweiligen Homepage.
+
+# Weitere Sammlungen / Listen / Übersichten:
+https://infosec-conferences.com/country/germany/
+https://martin.leyrer.priv.at/static/events2023.html
+https://www.nmessen.com/sicherheit/deutschland/
